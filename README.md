@@ -75,7 +75,7 @@ The `/24` prefix represents the `10.11.12.0/24` address space, covering 256 IPv4
 
 ## 🔎 Zenmap Topology
 
-![Zenmap Topology](screenshots/Zenmap05.jpg)
+![Zenmap Topology](https://github.com/adkasu/NETWORKWALKS-B083-WK2-PM5-CYBERSECURITY-Zenmap-Nmap/blob/1f4fe23b459a30a071cf32790782130b154dfaed/Zenmap03.jpg)
 
 *Figure 1: Zenmap Ping Scan and Topology view.*
 
