@@ -119,6 +119,6 @@ The four hosts with an unknown MAC vendor should be identified through authorize
 ## 👤 Author
 
 **Adio Kabiru**  
-Network Engineer | Telecommunications Engineer | Cybersecurity Learner
+Network Engineer | Telecommunications Engineer | Cybersecurity | Network Security Engineer
 
 #Cybersecurity #NetworkSecurity #Zenmap #Nmap #NetworkDiscovery #KaliLinux #EthicalHacking
